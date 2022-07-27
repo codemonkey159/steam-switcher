@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1635964004 source:d:\projects\steamswitcher\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<sstream>
+	<string>
+	<tlhelp32.h>
+
+1658456615 source:d:\projects\windows\steamswitcher\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<sstream>
+	<string>
+	<tlhelp32.h>
+	"assembler.cpp"
+
+1658497171 d:\projects\windows\steamswitcher\assembler.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	<windows.h>
+
