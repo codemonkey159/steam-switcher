@@ -15,7 +15,9 @@ save as multisteam.exe
 
 This method may be invalidated in the future, I do not intend to support this project any longer, nor do I intend to provide altered copies of steam.exe and potentially infringe on valves copyright.
 
-Instructions:
+----
+
+Instructions for steamswitcher:
 Start multiple versions of steam using multisteam.exe
 when you want to switch to a specific process of steam, highlight the process ID for that steam and click set. This will suspend all other processes named steam.exe or multisteam.exe
 when you want all copies of steam processes to not be suspended, click runall.
